@@ -5,14 +5,21 @@ This repository was created during an interactive MCP GitHub server tutorial wit
 ## Purpose
 
 Learning how to use the GitHub MCP server tools:
-- ✅ search_repositories
-- ✅ create_repository
-- ✅ get_file_contents
-- ✅ create_or_update_file (this file!)
+- ✅ Tool #1: search_repositories
+- ✅ Tool #2: create_repository
+- ✅ Tool #3: get_file_contents
+- ✅ Tool #4: create_or_update_file
+  - Created this file
+  - **Updated this file** (you're reading the update now!)
+
+## What We're Learning
+
+How to automate GitHub workflows without cloning repos or using git commands!
 
 ## Next Steps
 
-Exploring more MCP GitHub tools to master GitHub automation!
+Exploring 16 more MCP GitHub tools to master GitHub automation!
 
 ---
-Created: November 2025
+Created: November 2025  
+Last Updated: November 16, 2025 via MCP
